@@ -1,8 +1,8 @@
-# 💫 About Me:
+# simply just ME :
 cyber security engineer <br>Non Graduate self made Engineer<br>Mostly go by the name Researcher , likely to be a scientist<br>cyber security , cloud engineering , programmer , enthusiast<br>The most curious WHY ? & HOW ? changed the world<br>Artificial intelligence is no match for natural STUPIDITY<br> 
 
 
-## 🌐 Socials:
+## 🌐 hit me ON :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mr_Infect) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepu-a-/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/khaled1734) 
 
 # 💻 Tech Stack:
