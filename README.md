@@ -1,5 +1,5 @@
 # simply just ME :
-cyber security engineer <br>Non Graduate self made Engineer<br>Mostly go by the name Researcher , likely to be a scientist<br>cyber security , cloud engineering , programmer , enthusiast<br>The most curious WHY ? & HOW ? changed the world<br>Artificial intelligence is no match for natural STUPIDITY<br> 
+cyber security engineer <br>Non Graduate self made Engineer | malware analyst | pentester | VAPT | <br>Mostly go by the name Researcher , likely to be a scientist<br>cyber security , cloud engineering , programmer , enthusiast<br>The most curious WHY ? & HOW ? changed the world<br>Artificial intelligence is no match for natural STUPIDITY<br> 
 
 
 ## 🌐 hit me ON :
