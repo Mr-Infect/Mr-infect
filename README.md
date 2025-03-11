@@ -2,9 +2,7 @@
 
 cyber security engineer <br>Non Graduate self made Engineer | Malware Analyst | pentester | VAPT | PJMR | SOC LVL-1 |
 
-CCSA | EEH |
-
-AI\ML Model Architect <br>Mostly go by the name Researcher , likely to be a scientist<br>cyber security , cloud engineering , programmer , enthusiast<br>The most curious WHY ? & HOW ? changed the world<br>Artificial intelligence is no match for natural STUPIDITY<br>
+CCSA | EEH |<br>Mostly go by the name Researcher , likely to be a scientist<br>cyber security , cloud engineering , programmer , enthusiast<br>The most curious WHY ? & HOW ? changed the world<br>Artificial intelligence is no match for natural STUPIDITY<br>
 
 
 
