@@ -1,6 +1,6 @@
 # simply just ME :
 
-cyber security engineer <br>Non Graduate self made Engineer |<br> Malware Analyst | pentester | VAPT |<br> PJMR | SOC LVL-1 |
+cyber security engineer <br>Non Graduate self made Engineer |<br> Malware Analyst | pentester | VAPT |<br> | PJMR | SOC LVL-1 |
 
 CCSA | EEH |<br>Mostly go by the name Researcher , likely to be a scientist<br>cyber security , cloud engineering , programmer , enthusiast<br>The most curious WHY ? & HOW ? changed the world<br>Artificial intelligence is no match for natural STUPIDITY<br>
 
