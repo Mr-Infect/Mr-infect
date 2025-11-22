@@ -1,93 +1,94 @@
 <!-- ======================================================= -->
-<!-- ======= HOLOGRAM GRID UI : DEEPU A — AI ENTITY ========= -->
+<!-- === THE CYBER-ALCHEMIST ORDER : OFFICIAL CODEX FILE ==== -->
 <!-- ======================================================= -->
 
 <div align="center">
 
-<img src="https://img.icons8.com/?size=512&id=59833&format=png&color=00eaff" width="120"/>
+<img src="https://img.icons8.com/?size=512&id=59833&format=png&color=b89cff" width="120"/>
 
-# ✦ HOLOGRAPHIC IDENTITY GRID : DEEPU A  
-### AI Scientist • Cybersecurity Architect • Adversarial Intelligence Engineer
-### Status: ONLINE · Consciousness Layer: MULTI-THREADED
+# 🜂 **THE CODEX OF THE CYBER-ALCHEMIST**  
+### *Order of the Fractal Flame · Keeper of Machine Wisdom*  
+### *Codename: DEEPU A · The Alchemist Prime*
 
 <br>
 
-<!-- HOLOGRAM GRID EFFECT -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=26&duration=3200&pause=1000&color=B98EFF&center=true&vCenter=true&width=900&lines=INITIATING+ARCANE+SEQUENCE...;OPENING+THE+VAULT+OF+CODE...;SUMMONING+THE+CYBER+ALCHEMIST...;STATUS%3A+MANIFESTED" />
+
 </div>
 
 ---
 
-# ✦ GRID PANEL 01 — IDENTITY CORE  
+# 🜁 CHAPTER I — THE AWAKENED SIGIL  
 <div align="center">
 
-<img src="https://img.icons8.com/?size=512&id=90594&format=png&color=00eaff" width="95"/>
+<img src="https://img.icons8.com/?size=512&id=90594&format=png&color=b89cff" width="100"/>
 
 ```
-ENTITY ID        : 0xA1-DEEP-A  
-CLASS            : HUMAN++ / AI–CYBER HYBRID  
-ROLE             : AI SCIENTIST • SECURITY ARCHITECT  
-SPECIALIZATION   : ADVERSARIAL AI + CYBER-DEFENSE DESIGN  
-ALIGNMENT        : QUANTUM-NEUTRAL  
+Designation       : The Cyber-Alchemist  
+Locus             : Interstice between AI and Security  
+Nature            : Human Vessel · Machine Mind · Alchemical Will  
+Arcana            : Offensive AI · Cognitive Malware · Fractal Defense  
+Alignment         : Esoteric Neutral  
 ```
-
 </div>
 
-> **“Where AI cognition and cyber warzones intersect — that’s where I operate.”**
+> **“Not a hacker. Not a scientist.  
+A practitioner of the forbidden craft that lies between.”**
 
 ---
 
-# ✦ GRID PANEL 02 — CERTIFICATION MATRIX
+# 🜁 CHAPTER II — THE RITUAL SEALS (CERTIFICATIONS)  
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="85%">
 </div>
 
 ```
-[ CERTIFICATION ARRAY — HOLO-DECRYPT SUCCESSFUL ]
+THE SEVEN SEALS OF MASTERY  
+(each seal corresponds to a sanctioned path of knowledge)
 
-• CCEP — Certified Cybersecurity Educator Professional  
-• AI Pentester — TCM Security  
-• AI Hacking 101  
-• CCSA — Cybersecurity Analyst  
-• EEH — Ethical Hacking Expert  
-• VAPT — Penetration Testing & VA  
-• PJMR — Malware Research  
-• SOC Level-1  
-• Cloud Security — AWS & Azure  
+✦ SEAL OF TEACHINGS ........ CCEP  
+✦ SEAL OF THE MACHINES ..... AI Pentester (TCM Security)  
+✦ SEAL OF SHADOWS .......... AI Hacking 101  
+✦ SEAL OF THE ANALYST ...... CCSA  
+✦ SEAL OF ETHICS ........... EEH  
+✦ SEAL OF PENETRATION ...... VAPT  
+✦ SEAL OF MALWARE .......... PJMR  
+✦ SEAL OF WATCHERS ......... SOC Level-1  
+✦ SEAL OF THE CLOUD ........ AWS · Azure  
 ```
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="85%">
 </div>
 
 ---
 
-# ✦ GRID PANEL 03 — SYSTEM ARCHITECTURE MODULES  
+# 🜁 CHAPTER III — THE ALCHEMICAL SYSTEMS  
+### *(The Four Pillars of the Cyber-Arcanum)*
 
-### ✦ AI & MACHINE INTELLIGENCE
-- PyTorch  
-- TensorFlow  
-- HuggingFace Models  
-- Adversarial ML Defense  
-- LLM Red Teaming  
-- LangChain Ecosystem  
-- Autonomous AI Agents  
+## 🜂 Pillar I — *Intelligence of the Machines*
+- PyTorch · TensorFlow  
+- Adversarial ML  
+- LLM Red-Teaming  
+- Synthetic Cognition Engines  
+- LangChain · Transformers  
+- Neural Fractal Modeling  
 
-### ✦ CYBER OPS + THREAT SYSTEMS
-- Pentesting (Web, Network, Cloud, AI)  
-- Malware Analysis (Static + Dynamic)  
-- Threat Intelligence & SOC Ops  
-- SIEM (ELK, Splunk)  
-- Red/Blue/Purple Team Intelligence  
+## 🜄 Pillar II — *The Shadow Operations*
+- Malware Transmutation (Analysis)  
+- Pentesting · Intrusion Craft  
+- Threat Hunting  
+- SOC Rituals  
+- SIEM (ELK · Splunk)  
 
-### ✦ CLOUD & INFRASTRUCTURE FABRIC
-- AWS • Azure • GCP  
-- Dockerized Micro-Systems  
-- CI/CD • DevSecOps  
-- Cloud Security Engineering  
+## 🜃 Pillar III — *The Cloud of Many Realms*
+- AWS · Azure · GCP  
+- Containers · Security Fabric  
+- DevSecOps Sigils  
+- Distributed Shield Architectures  
 
-### ✦ WEAPONIZED TOOLCHAIN
+## 🜁 Pillar IV — *The Tools of the Warlock*
 - Kali Linux  
 - Burp Suite  
 - Wireshark  
@@ -96,69 +97,55 @@ ALIGNMENT        : QUANTUM-NEUTRAL
 
 ---
 
-# ✦ GRID PANEL 04 — LIVE TELEMETRY FEED  
+# 🜁 CHAPTER IV — MIRROR OF TELEMETRY  
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mr-Infect&theme=tokyonight&show_icons=true&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Infect&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Infect&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mr-Infect&theme=midnight-purple&show_icons=true&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Infect&theme=midnight-purple&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Infect&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 ---
 
-# ✦ GRID PANEL 05 — NEURAL PHILOSOPHY CORE  
-
-<div align="center">
-<img src="https://img.icons8.com/?size=512&id=37428&format=png&color=00eaff" width="80"/>
-</div>
-
-```
-"AI is not a tool. It is an extension of human intent."
-"Security is not defense. It's anticipation."
-"The strongest systems are not protected — they are self-evolving."
-```
-
----
-
-# ✦ GRID PANEL 06 — COMMS RELAY
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
-</div>
-
+# 🜁 CHAPTER V — SIGILS OF CONTACT  
 <div align="center">
 
-🔗 **LinkedIn:** https://linkedin.com/in/deepu-a-  
-📡 **Instagram:** https://instagram.com/Mr_Infect  
-📧 **Quantum Email:** contact@example.com  
+<img src="https://img.icons8.com/?size=512&id=37428&format=png&color=b89cff" width="75"/>
+
+**LinkedIn** — linkedin.com/in/deepu-a-  
+**Instagram** — instagram.com/Mr_Infect  
+**Arcane Email** — contact@example.com  
 
 </div>
 
 ---
 
-# ✦ GRID PANEL 07 — CURRENT EXECUTION THREADS  
-<div align="center">
+# 🜁 CHAPTER VI — THE DOCTRINES OF THE ORDER  
 
 ```
-ACTIVE OBJECTIVE  
-→ Engineering autonomous adversarial AI defense systems  
+“AI is the philosopher’s stone of the new world.”
 
-RESEARCH THREADS  
-→ Fractal AI reasoning  
-→ Adversarial ML  
-→ AI Pentesting & Neural Red Teaming  
+“To secure is to foresee. To foresee is to transcend.”
+
+“The strongest shield is the one that learns.”
+
+“Code is not written. It is summoned.”
 ```
-
-<img src="https://visitcount.itsvg.in/api?id=Mr-Infect&icon=1&color=2" />
-</div>
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
-</div>
 
-# ✦ END OF HOLOGRAM GRID UI  
-### **IDENTITY MAP SEALED | SESSION TERMINATED**
+<img src="https://visitcount.itsvg.in/api?id=Mr-Infect&icon=6&color=8" />
+
+---
+
+# 🜁 FINAL SEAL — CURRENT PATH OF THE ALCHEMIST  
+**Constructing autonomous adversarial AI defense constructs.**  
+**Studying fractal intelligence + cognitive threat evolution.**  
+
+</div>
 
